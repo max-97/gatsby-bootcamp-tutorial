@@ -1,3 +1,10 @@
+# Tutorial Project from the great Gatsby Bootcamp
+This [Tutorial](https://www.youtube.com/watch?v=8t0vNu2fCCM&t=13111s) was made by [Andrew Mead](https://github.com/andrewjmead).
+
+Below follows the README content from the gatsby-starter-hello-world project.
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
